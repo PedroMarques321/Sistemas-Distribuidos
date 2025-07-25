@@ -1,0 +1,40 @@
+/* ____  _     _                                        
+* / ___|(_)___| |_ ___ _ __ ___   __ _ ___              
+* \___ \| / __| __/ _ \ '_ ` _ \ / _` / __|             
+*  ___) | \__ \ ||  __/ | | | | | (_| \__ \             
+* |____/|_|___/\__\___|_| |_| |_|\__,_|___/ _           
+* |  _ \(_)___| |_ _ __(_) |__  _   _/_/ __| | ___  ___ 
+* | | | | / __| __| '__| | '_ \| | | | |/ _` |/ _ \/ __|
+* | |_| | \__ \ |_| |  | | |_) | |_| | | (_| | (_) \__ \
+* |____/|_|___/\__|_|  |_|_.__/_\__,_|_|\__,_|\___/|___/
+* |___ \ / _ \___ \| || |   / /___ \| ___|              
+*   __) | | | |__) | || |_ / /  __) |___ \              
+*  / __/| |_| / __/|__   _/ /  / __/ ___) |             
+* |_____|\___/_____|  |_|/_/  |_____|____/
+*            
+* Grupo 56
+* Pedro Marques nº48674
+*/
+
+#include <sys/socket.h>
+#include <sys/types.h>
+#include <arpa/inet.h>
+#include <netinet/in.h>
+#include <netdb.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <string.h>
+#include <stdlib.h>
+#include <sys/ioctl.h>
+#include <ifaddrs.h>
+
+//tamanho maximo da mensagem enviada pelo cliente
+#define MAX_MSG 2048
+
+
+
+
+
+
+
+

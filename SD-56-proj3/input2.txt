@@ -1,0 +1,17 @@
+put a b
+put b b
+get b
+put ca b
+put da b
+put ea b
+put fa b
+put ga b
+put ha b
+put ia b
+put ja b
+put ka b
+put la b
+put ma b
+put na b
+put oa b
+put pa b

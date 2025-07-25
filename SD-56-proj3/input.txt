@@ -1,0 +1,18 @@
+put a a
+put b a
+del b
+put ca a
+put da a
+put ea a
+put fa a
+put ga a
+put ha a
+put ia a
+put ja a
+put ka a
+put la a
+put ma a
+put na a
+put oa a
+put pa a
+
